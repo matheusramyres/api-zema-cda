@@ -9,7 +9,6 @@ const users = fs.readFileSync(path.resolve('./pessoas.json'), 'utf8');
 const newUsers = JSON.parse(users);
 
 app.get('/users', (req, res)=>{
-    con
     res.json(newUsers).status(200);
 });
 
