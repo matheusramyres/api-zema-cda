@@ -1,10 +1,12 @@
 const express = require('express');
+const cors = require('cors');
 const PDFPrinter = require('pdfmake');
 const fs = require('fs');
 const path = require('path');
 
 const app = express();
 app.use(express.json());
+app.use(cors());
 const users = fs.readFileSync(path.resolve('./pessoas.json'), 'utf8');
 const newUsers = JSON.parse(users);
 
