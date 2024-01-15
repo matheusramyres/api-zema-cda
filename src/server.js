@@ -6,10 +6,11 @@ const path = require('path');
 const app = express();
 app.use(express.json());
 const users = fs.readFileSync(path.resolve('./pessoas.json'), 'utf8');
+const newUsers = JSON.parse(users);
 
 app.get('/users', (req, res)=>{
-
-    res.json(users).status(200);
+    con
+    res.json(newUsers).status(200);
 });
 
 app.get('/makePdfUser', async (req, res)=>{
@@ -25,7 +26,7 @@ app.get('/makePdfUser', async (req, res)=>{
     const printer = new PDFPrinter(fonts);
 
     const usersArray = [];
-    for await (let user of users){
+    for await (let user of newUsers){
         const row = new Array();
         row.push(user.id_pessoa);
         row.push(user.nome_pessoa);
