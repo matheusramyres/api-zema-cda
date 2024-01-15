@@ -1,24 +1,11 @@
 const express = require('express');
 const PDFPrinter = require('pdfmake');
 const fs = require('fs');
+const path = require('path');
 
 const app = express();
 app.use(express.json());
-const users = [
-    {id_pessoa: 2311, nome_pessoa: 'JOSE ARNALDO DA SILVA', departamento: '	TI - ERP 2'},
-    {id_pessoa: 2312, nome_pessoa: 'JOSE ARNALDO DA SILVA', departamento: '	TI - ERP 3'},
-    {id_pessoa: 2313, nome_pessoa: 'JOSE ARNALDO DA SILVA', departamento: '	TI - ERP 4'},
-    {id_pessoa: 2314, nome_pessoa: 'JOSE ARNALDO DA SILVA', departamento: '	TI - ERP 5'},
-    {id_pessoa: 2315, nome_pessoa: 'JOSE ARNALDO DA SILVA', departamento: '	TI - ERP 6'},
-    {id_pessoa: 2316, nome_pessoa: 'JOSE ARNALDO DA SILVA', departamento: '	TI - ERP 7'},
-    {id_pessoa: 2317, nome_pessoa: 'JOSE ARNALDO DA SILVA', departamento: '	TI - ERP 8'},
-    {id_pessoa: 2318, nome_pessoa: 'JOSE ARNALDO DA SILVA', departamento: '	TI - ERP 9'},
-    {id_pessoa: 2319, nome_pessoa: 'JOSE ARNALDO DA SILVA', departamento: '	TI - ERP 10'},
-    {id_pessoa: 2320, nome_pessoa: 'JOSE ARNALDO DA SILVA', departamento: '	TI - ERP 11'},
-    {id_pessoa: 2321, nome_pessoa: 'JOSE ARNALDO DA SILVA', departamento: '	TI - ERP 12'},
-    {id_pessoa: 2322, nome_pessoa: 'JOSE ARNALDO DA SILVA', departamento: '	TI - ERP 13'},
-    {id_pessoa: 2323, nome_pessoa: 'JOSE ARNALDO DA SILVA', departamento: '	TI - ERP 14'},
-];
+const users = fs.readFileSync(path.resolve('./pessoas.json'), 'utf8');
 
 app.get('/users', (req, res)=>{
 
