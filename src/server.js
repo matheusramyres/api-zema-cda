@@ -43,12 +43,24 @@ app.get('/makePdfUser', async (req, res)=>{
             {
                 table: {
                     body:[
-                        ['id_pessoa', 'nome_pessoa', 'departamento'],
+                        [
+                            {text: "ID_PESSOA", style: "columnsTitle"},
+                            {text: "NOME_PESSOA", style: "columnsTitle"},
+                            {text: "DEPARTAMENTO", style: "columnsTitle"},
+                        ],
                         ...usersArray
-                    ]
+                    ],
                 }
             }
-        ]
+        ],
+        styles: {
+            columnsTitle: {
+                fontSize: 14,
+                bold: true,
+                color: "#fff",
+                fillColor: "#5164a8"
+            }
+        }
     }
     const pdfDoc = printer.createPdfKitDocument(docDefinitions);
 
