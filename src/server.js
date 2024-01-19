@@ -1,10 +1,12 @@
 const express = require('express');
 const cors = require('cors');
 const PDFPrinter = require('pdfmake');
+var json2xls = require('json2xls');
 const fs = require('fs');
 const path = require('path');
 
 const app = express();
+app.use(json2xls.middleware);
 app.use(express.json());
 app.use(cors());
 const users = fs.readFileSync(path.resolve('./pessoas.json'), 'utf8');
@@ -49,7 +51,6 @@ app.get('/makePdfUser', async (req, res)=>{
         ]
     }
     const pdfDoc = printer.createPdfKitDocument(docDefinitions);
-    // pdfDoc.pipe(fs.createWriteStream('Relatorio.pdf'));
 
     const chunks = [];
     pdfDoc.on('data',(chunk)=>{
@@ -66,8 +67,11 @@ app.get('/makePdfUser', async (req, res)=>{
       
 });
 
+app.get('/generateXls', async (req, res)=>{
+    res.xls('relatorio-ponto-encontro.xls', newUsers);
+});
 
 
 app.listen(3333, ()=>{
-    console.log('listen: 3333');
+    console.log('listen: http://localhost:3333');
 });
