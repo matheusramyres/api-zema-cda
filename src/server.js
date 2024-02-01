@@ -84,7 +84,7 @@ app.get('/generateXls', async (req, res)=>{
 });
 
 app.get('/rest/RSESTPG/:PAGINA', async(req, res)=>{
-    const productPages = fs.readFileSync(path.resolve(`./produtos${req.params.pagina}.json`), 'utf8');
+    const productPages = fs.readFileSync(path.resolve(`./produtos${req.params.PAGINA}.json`), 'utf8');
     const newProdutos = JSON.parse(productPages);
     res.json(newProdutos).status(200);
 })
