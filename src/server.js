@@ -83,6 +83,12 @@ app.get('/generateXls', async (req, res)=>{
     res.xls('relatorio-ponto-encontro.xls', newUsers);
 });
 
+app.get('/pessoas/:pagina', async(req, res)=>{
+    const productPages = fs.readFileSync(path.resolve(`./produtos${req.params.pagina}.json`), 'utf8');
+    const newProdutos = JSON.parse(productPages);
+    res.json(newProdutos).status(200);
+})
+
 
 app.listen(3333, ()=>{
     console.log('listen: http://localhost:3333');

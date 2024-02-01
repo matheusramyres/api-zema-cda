@@ -1,0 +1,746 @@
+{
+  "LISTAPRODUTOS": [
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "114656",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA114656",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 1,
+          "NSALDO": 26
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "114656                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "124713",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA124713",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 77
+        },
+        {
+          "ALOTES": [],
+          "CARMAZEM": "25",
+          "CCODCLIENTE": "124713",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA124713",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 3
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "124713                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "124714",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA124714",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 44
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "124714                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "128158",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA128158",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 7
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "128158                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "128659",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA128659",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 10
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "128659                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "131495",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA131495",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 1
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "131495                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "134380",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA134380",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 20
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "134380                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "134382",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA134382",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 14
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "134382                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "134572",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA134572",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 1
+        },
+        {
+          "ALOTES": [],
+          "CARMAZEM": "28",
+          "CCODCLIENTE": "134572",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA134572",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 0
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "134572                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "134573",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA134573",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 2
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "134573                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "135771",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA135771",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 1
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "135771                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "137403",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA137403",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 4
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "137403                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "137404",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA137404",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 1,
+          "NSALDO": 23
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "137404                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "137639",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA137639",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 1
+        },
+        {
+          "ALOTES": [],
+          "CARMAZEM": "28",
+          "CCODCLIENTE": "137639",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA137639",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 0
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "137639                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "137642",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA137642",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 20
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "137642                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "139138",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA139138",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 2
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "139138                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "141181",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA141181",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 1
+        },
+        {
+          "ALOTES": [],
+          "CARMAZEM": "28",
+          "CCODCLIENTE": "141181",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA141181",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 0
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "141181                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "141182",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA141182",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 4
+        },
+        {
+          "ALOTES": [],
+          "CARMAZEM": "28",
+          "CCODCLIENTE": "141182",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA141182",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 0
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "141182                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "142789",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA142789",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 48
+        },
+        {
+          "ALOTES": [],
+          "CARMAZEM": "22",
+          "CCODCLIENTE": "142789",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA142789",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 0
+        },
+        {
+          "ALOTES": [],
+          "CARMAZEM": "96",
+          "CCODCLIENTE": "142789",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA142789",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 0
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "142789                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "142790",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA142790",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 1,
+          "NSALDO": 33
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "142790                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "146723",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA146723",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 7
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "146723                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "146949",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA146949",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 8
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "146949                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "147205",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA147205",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 1,
+          "NSALDO": 8
+        },
+        {
+          "ALOTES": [],
+          "CARMAZEM": "22",
+          "CCODCLIENTE": "147205",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA147205",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 0
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "147205                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "147206",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA147206",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 75
+        },
+        {
+          "ALOTES": [],
+          "CARMAZEM": "28",
+          "CCODCLIENTE": "147206",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA147206",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 0
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "147206                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "156151",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA156151",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 18
+        },
+        {
+          "ALOTES": [],
+          "CARMAZEM": "28",
+          "CCODCLIENTE": "156151",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA156151",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 0
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "156151                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "156153",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA156153",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 1
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "156153                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "157370",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA157370",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 4
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "157370                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "158463",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA158463",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 1
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "158463                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "158638",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA158638",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 8
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "158638                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "158640",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA158640",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 0,
+          "NSALDO": 6
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "158640                                            "
+    },
+    {
+      "AESTOQUE": [
+        {
+          "ALOTES": [],
+          "CARMAZEM": "21",
+          "CCODCLIENTE": "161436",
+          "CCODFILIAL": "01",
+          "CCODLISA": "ZEMA161436",
+          "NQTDCLASS": 0,
+          "NQTDINTEGRA": 0,
+          "NQTDNAOCLASS": 0,
+          "NQTDPEDIDO": 1,
+          "NSALDO": 13
+        }
+      ],
+      "CCGC": "26404731064240",
+      "CCHAVE": "86175501",
+      "CFILIALWMS": "01",
+      "CPRODUTO": "161436                                            "
+    }
+  ],
+  "PAGCORRENTE": 2,
+  "PAGTOTAL": 3
+}
