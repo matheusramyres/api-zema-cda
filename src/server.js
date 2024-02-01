@@ -83,7 +83,7 @@ app.get('/generateXls', async (req, res)=>{
     res.xls('relatorio-ponto-encontro.xls', newUsers);
 });
 
-app.get('/produtos/:pagina', async(req, res)=>{
+app.get('/rest/RSESTPG/:PAGINA', async(req, res)=>{
     const productPages = fs.readFileSync(path.resolve(`./produtos${req.params.pagina}.json`), 'utf8');
     const newProdutos = JSON.parse(productPages);
     res.json(newProdutos).status(200);
